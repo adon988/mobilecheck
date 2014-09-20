@@ -7,7 +7,7 @@ jquery plugin for check mobile or pc
 How to used
 
 1. install plugin
-  <script src='jquery.mobilecheck.min.js'></script>
+  &lt;script src=&#39;jquery.mobilecheck.min.js&#39;&gt;&lt;/script&gt;
   
 2. fn used
 
